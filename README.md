@@ -1,6 +1,7 @@
 # Python Tutorial By Sudhanshu Singh
 
-https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
 Welcome to the **Python Tutorial** repository! This project is designed to help you get a better understanding of Python programming basics. Currently, this repository includes tutorials that cover essential concepts like variables and data types.
 
 ## Overview
@@ -15,10 +16,11 @@ This repository is divided into different Python files, each of which introduces
 
 ## How to Use This Repository
 
-1. Clone or download the repository to your local machine.
+1. Clone or download the repository to your local machine:
 
    ```bash
    git clone https://github.com/1SudhanshuSingh/python-tutorials
+
 2. Open each Python file in your preferred code editor and follow the instructions in the comments.
 
 3. Run the Python files to see the examples in action:
